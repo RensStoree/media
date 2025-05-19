@@ -3,360 +3,300 @@
     "soal": "Pohon manggis di tepi rawa,\nTempat nenek tidur beradu,\nSungguh elok berbudi bahasa,\nTanda hati...",
     "jawaban": "mulia",
     "opsi": ["mulia", "malua", "malau"],
-    "petunjuk": "Diawali huruf 'm', sifat baik hati"
+    "petunjuk": "Lawan dari hina"
   },
   {
     "soal": "Anak ayam turun sepuluh,\nMati satu tinggal sembilan,\nTuntut ilmu bersungguh-sungguh,\nSupaya hidup tidak...",
     "jawaban": "kelam",
     "opsi": ["kelam", "kelom", "kelum"],
-    "petunjuk": "Diawali 'k', lawan dari terang"
+    "petunjuk": "Lawan dari terang"
   },
   {
     "soal": "Pergi ke pasar membeli duku,\nDuku dikupas isinya tiga,\nHati siapa tak kan luka,\nMelihat anak...",
     "jawaban": "terlantar",
     "opsi": ["terlantar", "terlantur", "terlentor"],
-    "petunjuk": "Diawali 't', kondisi tak terurus"
+    "petunjuk": "Lawan dari terurus"
   },
   {
     "soal": "Air surut memungut bayam,\nSayur diisi ke dalam kantung,\nJangan diikuti tabiat ayam,\nBertelur sebiji...",
     "jawaban": "riuh",
     "opsi": ["riuh", "riah", "riao"],
-    "petunjuk": "Diawali 'r', suara berisik"
+    "petunjuk": "Lawan dari sepi"
   },
   {
     "soal": "Buah cempedak di luar pagar,\nAmbil galah tolong jolokkan,\nSaya budak baru belajar,\nKalau salah...",
     "jawaban": "tolong",
     "opsi": ["tolong", "tulung", "telong"],
-    "petunjuk": "Diawali 't', minta bantuan"
+    "petunjuk": "Lawan dari menolak"
   },
   {
     "soal": "Pucuk pauh delima batu,\nAnak sembilang ditumpangi,\nHendak seribu daya,\nTak hendak seribu...",
     "jawaban": "dalih",
     "opsi": ["dalih", "dalip", "delih"],
-    "petunjuk": "Diawali 'd', alasan yang dibuat-buat"
+    "petunjuk": "Lawan dari jujur"
   },
   {
     "soal": "Anak ikan dipanggang saja,\nJangan digoreng kering-kering,\nAnak sendiri disayangi,\nAnak orang jangan...",
     "jawaban": "disinggung",
     "opsi": ["disinggung", "disinggong", "disinggeng"],
-    "petunjuk": "Diawali 'd', jangan disakiti"
+    "petunjuk": "Lawan dari dihormati"
   },
   {
     "soal": "Kalau ada sumur di ladang,\nBoleh kita menumpang mandi,\nKalau ada umur yang panjang,\nBoleh kita berjumpa...",
     "jawaban": "lagi",
     "opsi": ["lagi", "lage", "logi"],
-    "petunjuk": "Diawali 'l', bertemu sekali lagi"
+    "petunjuk": "Lawan dari berpisah"
   },
   {
     "soal": "Pergi memancing sampai ke hulu,\nMendapat ikan belida dua,\nKalau adik rindu benar,\nJumpa kakak jangan...",
     "jawaban": "malu",
     "opsi": ["malu", "mola", "milo"],
-    "petunjuk": "Diawali 'm', perasaan tidak enak"
+    "petunjuk": "Lawan dari percaya diri"
   },
   {
     "soal": "Buah berangan buah kepayang,\nDimasak nenek di kuali,\nHati dendam jangan disimpan,\nNanti badan jadi...",
     "jawaban": "sakit",
     "opsi": ["sakit", "saket", "sokot"],
-    "petunjuk": "Diawali 's', kondisi tidak sehat"
+    "petunjuk": "Lawan dari sehat"
   },
   {
     "soal": "Anak kerang mati di tepi,\nAnak kambing mati tertambat,\nKalau tuan bijak bestari,\nSilap dan salah mohon...",
     "jawaban": "maaf",
     "opsi": ["maaf", "maap", "moaf"],
-    "petunjuk": "Diawali 'm', permintaan ampun"
-  },
-  {
-    "soal": "Pucuk pauh delima batu,\nAnak sembilang ditumpangi,\nHendak seribu daya,\nTak hendak seribu...",
-    "jawaban": "dalih",
-    "opsi": ["dalih", "dalip", "delih"],
-    "petunjuk": "Diawali 'd', alasan yang dibuat-buat"
+    "petunjuk": "Lawan dari menyalahkan"
   },
   {
     "soal": "Air pasang surut kembali,\nSurut lagi ke tepian,\nSudah dapat jangan lupa diri,\nBelum dapat jangan...",
     "jawaban": "putus",
     "opsi": ["putus", "putas", "potos"],
-    "petunjuk": "Diawali 'p', lawan dari terus"
+    "petunjuk": "Lawan dari terus"
   },
   {
     "soal": "Pulau pandan jauh ke tengah,\nGunung daik bercabang tiga,\nHancur badan dikandung tanah,\nBudi yang baik dikenang...",
     "jawaban": "juga",
     "opsi": ["juga", "juge", "jogo"],
-    "petunjuk": "Diawali 'j', berarti selalu"
+    "petunjuk": "Lawan dari dilupakan"
   },
   {
     "soal": "Kayu cendana di atas batu,\nSudah diikat dibawa pulang,\nAdat dunia memang begitu,\nBenda yang buruk memang...",
     "jawaban": "hilang",
     "opsi": ["hilang", "helang", "holong"],
-    "petunjuk": "Diawali 'h', tidak ditemukan"
+    "petunjuk": "Lawan dari ditemukan"
   },
   {
     "soal": "Anak kuda diikat panjang,\nAnak kijang di rimba raya,\nKalau hidup tidak berpangkat,\nJadilah orang yang...",
     "jawaban": "berjasa",
     "opsi": ["berjasa", "berjoso", "berjuso"],
-    "petunjuk": "Diawali 'b', memberi manfaat"
+    "petunjuk": "Lawan dari merugikan"
   },
   {
     "soal": "Buah cempedak di luar pagar,\nAmbil galah tolong jolokkan,\nSaya budak baru belajar,\nKalau salah tolong...",
     "jawaban": "tunjuk",
     "opsi": ["tunjuk", "tonjuk", "tenjuk"],
-    "petunjuk": "Diawali 't', memberi petunjuk"
+    "petunjuk": "Lawan dari menyembunyikan"
   },
   {
     "soal": "Kalau padi sudah menguning,\nTuaian janganlah ditunda,\nKalau kita sudah berjanji,\nJanji itu harus...",
     "jawaban": "ditepati",
     "opsi": ["ditepati", "ditepoti", "diteputi"],
-    "petunjuk": "Diawali 'd', harus dipenuhi"
+    "petunjuk": "Lawan dari ingkar"
   },
   {
     "soal": "Air dalam bertambah dalam,\nHujan di hulu belum lagi teduh,\nHati dendam bertambah dendam,\nDendam kesumat tak kan...",
     "jawaban": "padam",
     "opsi": ["padam", "podom", "pedem"],
-    "petunjuk": "Diawali 'p', lawan dari menyala"
+    "petunjuk": "Lawan dari menyala"
   },
   {
     "soal": "Anak ikan dimakan berang,\nAnak ayam mati terluka,\nKalau tuan bijak bestari,\nBudi yang jahat jangan...",
     "jawaban": "dituai",
     "opsi": ["dituai", "dituoi", "dituyi"],
-    "petunjuk": "Diawali 'd', jangan dipetik"
+    "petunjuk": "Lawan dari diabaikan"
   },
   {
     "soal": "Padi menguning hampir masak,\nSawah luas terbentang hijau,\nKalau tuan bijak bestari,\nBudi yang baik kenang...",
     "jawaban": "selalu",
     "opsi": ["selalu", "selalo", "solalu"],
-    "petunjuk": "Diawali 's', tidak pernah lupa"
-  },
-  {
-    "soal": "Pulau pandan jauh ke tengah,\nGunung daik bercabang tiga,\nHancur badan dikandung tanah,\nBudi yang baik dikenang...",
-    "jawaban": "juga",
-    "opsi": ["juga", "juge", "jogo"],
-    "petunjuk": "Diawali 'j', berarti selalu"
-  },
-  {
-    "soal": "Air pasang surut kembali,\nSurut lagi ke tepian,\nSudah dapat jangan lupa diri,\nBelum dapat jangan...",
-    "jawaban": "putus",
-    "opsi": ["putus", "putas", "potos"],
-    "petunjuk": "Diawali 'p', lawan dari terus"
-  },
-  {
-    "soal": "Kayu cendana di atas batu,\nSudah diikat dibawa pulang,\nAdat dunia memang begitu,\nBenda yang buruk memang...",
-    "jawaban": "hilang",
-    "opsi": ["hilang", "helang", "holong"],
-    "petunjuk": "Diawali 'h', tidak ditemukan"
-  },
-  {
-    "soal": "Anak kuda diikat panjang,\nAnak kijang di rimba raya,\nKalau hidup tidak berpangkat,\nJadilah orang yang...",
-    "jawaban": "berjasa",
-    "opsi": ["berjasa", "berjoso", "berjuso"],
-    "petunjuk": "Diawali 'b', memberi manfaat"
-  },
-  {
-    "soal": "Buah cempedak di luar pagar,\nAmbil galah tolong jolokkan,\nSaya budak baru belajar,\nKalau salah tolong...",
-    "jawaban": "tunjuk",
-    "opsi": ["tunjuk", "tonjuk", "tenjuk"],
-    "petunjuk": "Diawali 't', memberi petunjuk"
-  },
-  {
-    "soal": "Kalau padi sudah menguning,\nTuaian janganlah ditunda,\nKalau kita sudah berjanji,\nJanji itu harus...",
-    "jawaban": "ditepati",
-    "opsi": ["ditepati", "ditepoti", "diteputi"],
-    "petunjuk": "Diawali 'd', harus dipenuhi"
-  },
-  {
-    "soal": "Air dalam bertambah dalam,\nHujan di hulu belum lagi teduh,\nHati dendam bertambah dendam,\nDendam kesumat tak kan...",
-    "jawaban": "padam",
-    "opsi": ["padam", "podom", "pedem"],
-    "petunjuk": "Diawali 'p', lawan dari menyala"
-  },
-  {
-    "soal": "Anak ikan dimakan berang,\nAnak ayam mati terluka,\nKalau tuan bijak bestari,\nBudi yang jahat jangan...",
-    "jawaban": "dituai",
-    "opsi": ["dituai", "dituoi", "dituyi"],
-    "petunjuk": "Diawali 'd', jangan dipetik"
-  },
-  {
-    "soal": "Padi menguning hampir masak,\nSawah luas terbentang hijau,\nKalau tuan bijak bestari,\nBudi yang baik kenang...",
-    "jawaban": "selalu",
-    "opsi": ["selalu", "selalo", "solalu"],
-    "petunjuk": "Diawali 's', tidak pernah lupa"
+    "petunjuk": "Lawan dari dilupakan"
   },
   {
     "soal": "Bunga mawar harum mewangi,\nDipetik pagi oleh si dara,\nJika hidup ingin berarti,\nJadilah insan penuh...",
     "jawaban": "cinta",
     "opsi": ["cinta", "sinta", "pinta"],
-    "petunjuk": "Diawali 'c', rasa kasih sayang"
+    "petunjuk": "Lawan dari benci"
   },
   {
     "soal": "Terang bulan di tengah taman,\nBintang bertabur di langit tinggi,\nKalau ingin banyak teman,\nBelajarlah untuk selalu...",
     "jawaban": "rendah hati",
     "opsi": ["rendah hati", "senang hati", "besar hati"],
-    "petunjuk": "Dua kata, diawali 'r', lawan dari sombong"
+    "petunjuk": "Lawan dari sombong"
   },
   {
     "soal": "Ke pasar membeli ikan,\nIkan dibeli dalam keranjang,\nJangan suka bermalas-malasan,\nAkhirnya hidup jadi...",
     "jawaban": "meradang",
     "opsi": ["meradang", "merapah", "merantau"],
-    "petunjuk": "Diawali 'm', artinya sengsara"
+    "petunjuk": "Lawan dari sejahtera"
   },
   {
     "soal": "Mentari pagi bersinar cerah,\nBurung bernyanyi sambut fajar,\nJika ingin sukses dan berkah,\nJangan lupa untuk selalu...",
     "jawaban": "belajar",
     "opsi": ["belajar", "berkelar", "berpagar"],
-    "petunjuk": "Diawali 'b', proses mencari ilmu"
+    "petunjuk": "Lawan dari bodoh"
   },
   {
     "soal": "Bunga seroja di tepi kali,\nMekar indah menawan hati,\nKalau bicara jangan sekali-kali,\nMenyakiti hati...",
     "jawaban": "sendiri",
     "opsi": ["sendiri", "teman", "istri"],
-    "petunjuk": "Diawali 's', perasaan batin"
+    "petunjuk": "Lawan dari bersama"
   },
   {
     "soal": "Bintang pagi mulai meredup,\nMentari timbul berseri-seri,\nJangan hidup hanya menumpuk,\nTapi berbagi tanpa...",
     "jawaban": "pamrih",
     "opsi": ["pamrih", "parih", "pamit"],
-    "petunjuk": "Diawali 'p', artinya tanpa mengharap balasan"
+    "petunjuk": "Lawan dari mengharap"
   },
   {
     "soal": "Naik perahu ke tengah laut,\nAngin menderu menggoncang dada,\nKalau ingin menjadi sahut,\nJangan takut pada...",
     "jawaban": "usaha",
     "opsi": ["usaha", "dosa", "basa"],
-    "petunjuk": "Diawali 'u', tindakan kerja keras"
+    "petunjuk": "Lawan dari malas"
   },
   {
     "soal": "Anak ayam turun sembilan,\nMati satu tinggal delapan,\nJika ilmu tak diamalkan,\nBagai pohon tak punya...",
     "jawaban": "buah",
     "opsi": ["buah", "dahan", "akar"],
-    "petunjuk": "Diawali 'b', hasil dari ilmu"
+    "petunjuk": "Lawan dari kering"
   },
   {
     "soal": "Siang hari makan pepaya,\nDuduk santai di atas ranjang,\nOrang cerdas bukan karena kaya,\nTapi karena terus...",
     "jawaban": "berjuang",
     "opsi": ["berjuang", "berulang", "bersulang"],
-    "petunjuk": "Diawali 'b', artinya berusaha keras"
+    "petunjuk": "Lawan dari menyerah"
   },
   {
     "soal": "Pagi cerah berjemur mentari,\nLangit biru tak berawan,\nKalau kamu punya janji,\nTepatilah dengan penuh...",
     "jawaban": "kesetiaan",
     "opsi": ["kesetiaan", "kerinduan", "kebenaran"],
-    "petunjuk": "Diawali 'k', artinya loyal"
+    "petunjuk": "Lawan dari khianat"
   },
   {
     "soal": "Beli kue di pasar lama,\nManis rasanya kue lapis,\nKalau teman sedang kecewa,\nBuat dia jadi lebih...",
     "jawaban": "optimis",
     "opsi": ["optimis", "komunis", "pesimis"],
-    "petunjuk": "Diawali 'o', lawan dari putus asa"
+    "petunjuk": "Lawan dari putus asa"
   },
   {
     "soal": "Pohon randu tumbuh menjulang,\nDaunnya rimbun berbentuk oval,\nKalau ingin jadi gemilang,\nJangan banyak cari...",
     "jawaban": "alasan",
     "opsi": ["alasan", "lapisan", "tulisan"],
-    "petunjuk": "Diawali 'a', penghindaran tanggung jawab"
+    "petunjuk": "Lawan dari bertanggung jawab"
   },
   {
     "soal": "Kain batik dari Pekalongan,\nDibeli emak waktu lebaran,\nKalau hidup penuh cobaan,\nTetap sabar dan penuh...",
     "jawaban": "keimanan",
     "opsi": ["keimanan", "ketegasan", "keuntungan"],
-    "petunjuk": "Diawali 'k', dasar agama"
+    "petunjuk": "Lawan dari kufur"
   },
   {
     "soal": "Burung hantu bertengger diam,\nMata bundar tatap malam,\nKalau marah jangan seram,\nCukup bicara dengan...",
     "jawaban": "tenang",
     "opsi": ["tenang", "senang", "tegang"],
-    "petunjuk": "Diawali 't', lawan dari emosi"
+    "petunjuk": "Lawan dari emosi"
   },
   {
     "soal": "Naik delman keliling kota,\nTersenyum riang si anak muda,\nKalau ingin dicinta,\nBersikaplah penuh...",
     "jawaban": "setia",
     "opsi": ["setia", "ceria", "berita"],
-    "petunjuk": "Diawali 's', lawan dari selingkuh"
+    "petunjuk": "Lawan dari khianat"
   },
   {
     "soal": "Angin sore meniup layu,\nBunga gugur ke atas batu,\nKalau hidup banyak malu,\nSulit capai cita-cita dan...",
     "jawaban": "maju",
     "opsi": ["maju", "laju", "baju"],
-    "petunjuk": "Diawali 'm', kebalikan dari mundur"
+    "petunjuk": "Lawan dari mundur"
   },
   {
     "soal": "Beli kue pukis di pasar baru,\nJangan lupa beli donat gula,\nKalau hidup selalu jujur,\nMaka hidup pun jadi...",
     "jawaban": "berkah",
     "opsi": ["berkah", "serkah", "perah"],
-    "petunjuk": "Diawali 'b', artinya membawa kebaikan"
+    "petunjuk": "Lawan dari sial"
   },
   {
     "soal": "Langit gelap tanpa bintang,\nHujan deras tanpa henti,\nKalau kamu suka menantang,\nHarus siap pula untuk...",
     "jawaban": "berani",
     "opsi": ["berani", "merani", "serani"],
-    "petunjuk": "Diawali 'b', lawan dari takut"
+    "petunjuk": "Lawan dari takut"
   },
   {
     "soal": "Pergi memancing ke muara laut,\nDapat ikan besar dua ekor,\nKalau hidup mau selamat,\nHindari sifat yang...",
     "jawaban": "takabur",
     "opsi": ["takabur", "taklur", "takadur"],
-    "petunjuk": "Diawali 't', artinya sombong berlebihan"
+    "petunjuk": "Lawan dari rendah hati"
   },
   {
     "soal": "Jalan-jalan ke Taman Mini,\nLihat rumah adat berseri-seri,\nKalau ingin disukai banyak orang,\nJadilah pribadi yang...",
     "jawaban": "ramah",
     "opsi": ["ramah", "lamah", "kamah"],
-    "petunjuk": "Diawali 'r', sikap sopan dan menyenangkan"
+    "petunjuk": "Lawan dari kasar"
   },
   {
     "soal": "Menanam jagung di tepi sawah,\nDisiram pagi sebelum cerah,\nKalau berbicara harus santun,\nJangan mengucap kata yang...",
     "jawaban": "kasar",
     "opsi": ["kasar", "kacau", "katar"],
-    "petunjuk": "Diawali 'k', lawan dari halus"
+    "petunjuk": "Lawan dari halus"
   },
   {
     "soal": "Menyeberang sungai pakai perahu,\nBawa bekal nasi dan sambal,\nKalau ingin rezekimu lancar,\nBersedekahlah dengan...",
     "jawaban": "ikhlas",
     "opsi": ["ikhlas", "ikhmas", "akhlas"],
-    "petunjuk": "Diawali 'i', tanpa pamrih"
+    "petunjuk": "Lawan dari pamrih"
   },
   {
     "soal": "Langit senja berubah jingga,\nBurung pulang ke sarangnya,\nKalau hatimu sedang luka,\nJangan biarkan larut dalam...",
     "jawaban": "duka",
     "opsi": ["duka", "luka", "suka"],
-    "petunjuk": "Diawali 'd', kesedihan mendalam"
+    "petunjuk": "Lawan dari bahagia"
   },
   {
     "soal": "Naik kereta ke stasiun lama,\nBawa koper dan tas berisi,\nKalau cinta pada sesama,\nHidup rukun penuh...",
     "jawaban": "empati",
     "opsi": ["empati", "simpati", "donati"],
-    "petunjuk": "Diawali 'e', bisa merasakan perasaan orang lain"
+    "petunjuk": "Lawan dari acuh"
   },
   {
     "soal": "Mentari pagi sinarnya redup,\nKabut turun di atas ladang,\nJika hati penuh harap,\nTetap semangat dan jangan...",
     "jawaban": "bimbang",
     "opsi": ["bimbang", "hilang", "terbang"],
-    "petunjuk": "Diawali 'b', artinya ragu"
+    "petunjuk": "Lawan dari yakin"
   },
   {
     "soal": "Jalan-jalan ke kota Semarang,\nMakan lumpia dan juga wingko,\nKalau hidup ingin tenang,\nJangan suka cari...",
     "jawaban": "ribut",
     "opsi": ["ribut", "ribet", "rumit"],
-    "petunjuk": "Diawali 'r', suka konflik"
+    "petunjuk": "Lawan dari damai"
   },
   {
     "soal": "Pagi-pagi beli lontong sayur,\nMinum teh hangat di kursi rotan,\nKalau hatimu sedang hancur,\nBangkitlah dan tetap...",
     "jawaban": "bertahan",
     "opsi": ["bertahan", "berjalan", "berangan"],
-    "petunjuk": "Diawali 'b', tidak menyerah"
+    "petunjuk": "Lawan dari menyerah"
   },
   {
     "soal": "Burung pipit hinggap di dahan,\nDahan patah si burung jatuh,\nKalau hidup penuh tantangan,\nJangan lari, teruslah...",
     "jawaban": "maju",
     "opsi": ["maju", "mundur", "laju"],
-    "petunjuk": "Diawali 'm', lawan dari mundur"
+    "petunjuk": "Lawan dari mundur"
   },
   {
     "soal": "Tepi danau terlihat damai,\nAir jernih tenang memikat,\nKalau kamu suka damai,\nJangan suka buat...",
     "jawaban": "onaran",
     "opsi": ["onaran", "onaran", "godaan"],
-    "petunjuk": "Diawali 'o', membuat gaduh"
+    "petunjuk": "Lawan dari tenang"
   },
   {
     "soal": "Pergi ke pasar beli ketela,\nJangan lupa bawa keranjang,\nKalau hidup penuh masalah,\nJangan menyerah, tetap...",
     "jawaban": "berjuang",
     "opsi": ["berjuang", "berunding", "berumah"],
-    "petunjuk": "Diawali 'b', artinya terus berusaha"
+    "petunjuk": "Lawan dari pasrah"
   }
 ]
